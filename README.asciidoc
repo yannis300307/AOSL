@@ -1,6 +1,6 @@
 This is a collection of software licenses we wrote mainly for our own amusement.
 
-All licenses were authored by myself and https://github.com/cocosol007[CoCoSol].
+All licenses were authored by myself and https://github.com/lokasku[Lukas].
 They are not intended for practical use and make no claim of legal validity.
 
 Use at your own risk.
